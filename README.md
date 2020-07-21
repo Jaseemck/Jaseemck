@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-![It's Me!](https://github.com/Jaseemck/Jaseemck/blob/master/pycon.jpg?raw=true)
-
-![It's Me!](pycon.jpg)
+## I'm Jaseem
 <!--
 **Jaseemck/Jaseemck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently focusing on Data science and Data Analysis
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on DS related Projects
+- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/jaseemck/), [Twitter](https://twitter.com/jaseemckclt), [Instagram](https://www.instagram.com/jesi_ck/), [Kaggle](https://www.kaggle.com/jaseemck), [Analytics Vidhya](https://www.analyticsvidhya.com/user/jaseem56)
+- 💬 E-mail: jaseemckclt@gmail.com
+- 💬 Phone: 9562291712
+
+### Download my Resume [here](https://drive.google.com/file/d/1CbJGCYgrmLo_gOvlkw2GAJbK7G1xNDaa/view?usp=sharing)
+
+![Imgur](https://i.imgur.com/ZhMXsHm.jpg)
